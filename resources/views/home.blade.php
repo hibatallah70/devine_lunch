@@ -237,18 +237,18 @@ sincere, anchored in the seasons, authentic but modern, joyful and generous, wit
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-12">
-                            <section class='tabs-content'>
+                        <div  class="col-lg-12">
+                            <section  class='tabs-content'>
                                 <article id='tabs-1'>
-                                    <div class="row">
+                                    <div align:"center" class="row">
                                         <div class="col-lg-6">
                                             <div class="row">
-                                                <div class="left-list">
+                                                <div  class="left-list">
                                                     <div class="col-lg-12">
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-01.png" alt="">
-                                                            <h4>Fresh Chicken Salad</h4>
-                                                            <p>healthy.</p>
+                                                            <h4> Chicken Salad</h4>
+                                                            <p>healthy amazing food.</p>
                                                             <div class="price">
                                                                 <h6>10.50dh</h6>
                                                             </div>
@@ -332,7 +332,7 @@ sincere, anchored in the seasons, authentic but modern, joyful and generous, wit
                                                     <div class="col-lg-12">
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-01.png" alt="">
-                                                            <h4>Fresh Chicken Salad</h4>
+                                                            <h4> Chicken Salad</h4>
                                                             <p>healthy and tasty.</p>
                                                             <div class="price">
                                                                 <h6>10dh</h6>
@@ -390,7 +390,7 @@ sincere, anchored in the seasons, authentic but modern, joyful and generous, wit
                                                     <div class="col-lg-12">
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-06.png" alt="">
-                                                            <h4>Fresh Chicken Salad</h4>
+                                                            <h4> Chicken Salad</h4>
                                                             <p>healthy.</p>
                                                             <div class="price">
                                                                 <h6>20dh</h6>
